@@ -1,2 +1,2 @@
 # TrialProject
-MSc Project Practice Code
+MSc Project Code
