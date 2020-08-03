@@ -18,13 +18,10 @@ import csv
 import numpy as np
 import matplotlib.pyplot as plt
 import re
-
 #***********************************************************************************************#
 
-#Function below allows the user to input a filename and search the relevant CDR1/CDR2/CDR3 sequences
-#within the IGHV1-69 germline sequence and create a plot to showcase similarities and differences'
-
 def func(filename):
+    """Function below allows the user to input a filename and search the relevant CDR1/CDR2/CDR3 sequences within the IGHV1-69 germline sequence"""
     seq = 'MDWTWRFLFVVAAATGVQSQVQLVQSGAEVKKPGSSVKVSCKASGGTFSSYAISWVRQAPGQGLEWMGGIIPIFGTANYAQKFQGRVTITADKSTSTAYMELSSLRSEDTAVYYCAR'
     pattern = pd.read_csv(filename)
     df = pd.read_csv(filename)
@@ -47,6 +44,7 @@ func("IGHV1-69_02 Data.csv")
 
 
 def dist_graph(filename):
+    """Function below plots a histogram to showcase differences between CDR1/CDR2/CDR3 sequences within the IGHV1-69 germline sequence"""
     df = pd.read_csv(filename)
     CDR = ['CDR1 Len'], ['CDR2 Len', 'CDR3 Len']
     CDR1 = df['CDR1 Len'].values
