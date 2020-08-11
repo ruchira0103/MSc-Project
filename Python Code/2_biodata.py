@@ -30,15 +30,6 @@ from Bio import SeqIO
 ##print(IGHV1_seq)
 ##print(IGHV1_mrna)
 
-def DNA_to_mRNA(infile):
-    """Function below allows the transcription of DNA sequence to mRNA sequence"""
-    with open("mRNA.fasta","w") as f:
-        for record in SeqIO.parse(infile, "fasta"):
-            f.write(">" + str(record.id) + "\n")
-            f.write(str(record.seq.ungap(".").transcribe().upper()) + "\n")
-
-DNA_to_mRNA('IGHV.fasta')
-        
 """Trial Code"""
 ##with open ("outfile.fasta", "r") as f:
 ##    data = f.readlines()
@@ -46,16 +37,25 @@ DNA_to_mRNA('IGHV.fasta')
 ##        IGHV1_seq = str(record.seq.translate()) + '\n'
 ##        #print(IGHV1_seq)
 
+def DNA_to_mRNA(infile):
+    """Function below allows the transcription of DNA sequence to mRNA sequence"""
+    with open("mRNA.fasta","w") as f:
+        for record in SeqIO.parse(infile, "fasta"):
+            f.write(">" + str(record.id) + "\n")
+            f.write(str(record.seq.ungap(".").transcribe().upper()) + "\n")
+      
 def mRNA_to_protein(filename):
-    """Function below allows the translation of mRNA sequence to protein sequence"""
+    """Function below allows the translation of mRNA sequence to protein sequence""" 
+    """to use to create logoplots later"""
     with open("protein.fasta","w") as f:
         for record in SeqIO.parse(filename, "fasta"):
             f.write(">" + str(record.id) + "\n")
             f.write(str(record.seq.translate()) + "\n")
 
+DNA_to_mRNA('IGHV.fasta')
 mRNA_to_protein("mRNA.fasta")
 
-"""Codon Table"""
-standard_table = CodonTable.unambiguous_rna_by_name['Standard']
-print(standard_table)
+"""Codon Table Trial Code"""
+#standard_table = CodonTable.unambiguous_rna_by_name['Standard']
+#print(standard_table)
 
