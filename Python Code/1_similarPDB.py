@@ -13,6 +13,7 @@ Author: 	Ruchira Sachdeva
 """
 #***********************************************************************************************
 #Import Libraries
+import os, sys
 import pandas as pd
 import csv
 import numpy as np
@@ -20,6 +21,8 @@ import matplotlib.pyplot as plt
 import re
 
 #***********************************************************************************************#
+
+path = os.path.dirname(sys.argv[0])
 
 #Function below allows the user to input a filename and search the relevant CDR1/CDR2/CDR3 sequences
 #within the IGHV1-69 germline sequence and create a plot to showcase similarities and differences'
