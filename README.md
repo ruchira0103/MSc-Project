@@ -13,12 +13,14 @@ Dependencies
 It is all written in Python 3 – the scripts rely on Pandas, NumPy and matplotlib for visualization. 
 
 Python Scripts
-1.  similarPDB.py Python script
+1.  similarPDB.py 
     
-2.	biodata.py Python script 
+2.	biodata.py 
 
-3.	align.py Python script 
+3.	align.py 
 
-4.	filtercsv.py Python script
+4.	filtercsv.py 
 
-5.	CoV data.py Python script
+5.  parsecsv.py
+
+6.	CoV data.py 
