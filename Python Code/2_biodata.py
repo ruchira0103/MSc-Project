@@ -2,7 +2,7 @@
 
 """
 -----------------------------------------------------------------------------------------------
-File:		biodata.py
+File:		2_biodata.py
 Program:	Biodata
 Version:	3.0
 Created:	28 May 2020
