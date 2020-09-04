@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 -----------------------------------------------------------------------------------------------
-File:		align.py
+File:		3_align.py
 Program:	align
 Version:	1.0
 Created:	28 May 2020
