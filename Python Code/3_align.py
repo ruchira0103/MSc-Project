@@ -11,12 +11,14 @@ Author: 	Ruchira Sachdeva
 """
 #***********************************************************************************************
 #Import Libraries
-
+import os, sys
 from Bio import AlignIO
 from Bio import SeqIO
 from Bio import Seq
 
 #***********************************************************************************************#
+
+path = os.path.dirname(sys.argv[0])
 
 def alignfasta(input_file):
     """Function below uses a fasta file to align sequences"""
