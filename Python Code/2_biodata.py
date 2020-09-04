@@ -12,7 +12,7 @@ Author: 	Ruchira Sachdeva
 """
 #***********************************************************************************************
 #Import Libraries
-
+import os, sys
 import Bio
 from Bio.Seq import Seq
 from Bio.Alphabet import generic_dna, generic_rna, generic_protein
@@ -21,6 +21,8 @@ from Bio.Data import CodonTable
 from Bio import SeqIO
 
 #***********************************************************************************************#
+path = os.path.dirname(sys.argv[0])
+
 """Trial Code"""
 ##for record in SeqIO.parse('IGHV.fasta','fasta'):
 ##    IGHV1_id = str(record.id) + '\n'
