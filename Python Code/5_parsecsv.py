@@ -51,10 +51,6 @@ parsecsv('PDB-2cmr.csv')
 parsecsv('PDB-2fx7.csv')
 parsecsv('PDB-2fx8.csv')
 
-"""IGHV1-69*02"""
-parsecsv('PDB-1yym.csv')
-parsecsv('PDB-2dd8.csv')
-
 """IGHV1-8*01"""
 parsecsv('PDB-3x3f.csv')
 parsecsv('PDB-4xmp.csv')
