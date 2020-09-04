@@ -2,7 +2,7 @@
 
 """
 -----------------------------------------------------------------------------------------------
-File:	similarPDB.py
+File:	1_similarPDB.py
 Program:	similarPDB
 Version:	3.0
 Created:	28 May 2020
