@@ -115,30 +115,30 @@ def parsecsv(infile):
     df['CDR'] = df['Res no'].apply(expert_level_check)
     new_rows = (df[['Res name','Res no','Res Symbol', 'CDR']])
     print(new_rows)
-    with open('output.csv', 'w') as csvfile:
+    with open('PDBoutput.csv', 'w') as csvfile:
         csvwriter = csv.writer(csvfile)
         for row in new_rows.items():
             csvwriter.writerow(row)
 
 
 """IGHV1-69*01"""
-parsecsv('out-2cmr.csv')
-parsecsv('out-2fx7.csv')
-parsecsv('out-2fx8.csv')
+parsecsv('PDB-2cmr.csv')
+parsecsv('PDB-2fx7.csv')
+parsecsv('PDB-2fx8.csv')
 
 """IGHV1-69*02"""
-parsecsv('out-1yym.csv')
-parsecsv('out-2dd8.csv')
+parsecsv('PDB-1yym.csv')
+parsecsv('PDB-2dd8.csv')
 
 """IGHV1-8*01"""
-parsecsv('out-3x3f.csv')
-parsecsv('out-4xmp.csv')
+parsecsv('PDB-3x3f.csv')
+parsecsv('PDB-4xmp.csv')
 
 """IGHV1-46*01"""
-parsecsv('out-4lsp.csv')
-parsecsv('out-5f9o.csv')
+parsecsv('PDB-4lsp.csv')
+parsecsv('PDB-5f9o.csv')
 
 """IGHV3-21*01"""
-parsecsv('out-6cxg.csv')
-parsecsv('out-6mu3.csv')
+parsecsv('PDB-6cxg.csv')
+parsecsv('PDB-6mu3.csv')
 
