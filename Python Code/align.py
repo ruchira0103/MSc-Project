@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
 -----------------------------------------------------------------------------------------------
-File:	    align.py
+File:		align.py
 Program:	align
 Version:	1.0
-Created:	11 Aug 2020
+Created:	28 May 2020
 Function:	Code below allows alignment of fasta files 
 Author: 	Ruchira Sachdeva 
 ------------------------------------------------------------------------------------------------
