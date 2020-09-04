@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 -----------------------------------------------------------------------------------------------
-File:		  5_CoV data.py
+File:		5_CoV data.py
 Program:	CoV data
 Version:	1.0
 Created:	20 August 2020
@@ -11,12 +11,13 @@ Author: 	Ruchira Sachdeva
 """
 #***********************************************************************************************
 #Import Libraries
-
+import os, sys
 import matplotlib.pyplot as plt
 import pandas as pd
 
 #***********************************************************************************************#
 
+path = os.path.dirname(sys.argv[0])
 
 def pie_chart(infile):
     with open(infile, 'r') as f:
