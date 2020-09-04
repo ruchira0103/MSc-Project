@@ -1,0 +1,18 @@
+Unnamed,IMGT entry ID,IMGT molecule name,Species,IMGT entry type,IMGT receptor description,Ligand(s),Experimental technique,Resolution,PDB release date
+11,1G9M,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.2,36887
+13,1GC1,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.5,40737
+53,1RZJ,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.2,40737
+86,1YYM,"17B mAb, anti-gp120 [HIV-1]; F23, scorpion toxin mimic of CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"Envelope glycoprotein gp120 (Protein); F23, scorpion toxin mimic of CD4 (Protein)",X-ray diffraction,2.2,40737
+98,2DD8,Fab M396,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,SARS Spike glycoprotein (Protein),X-ray diffraction,2.3,40737
+112,2I5Y,"17B mAb, anti-gp120 [HIV-1]; CD4M47, scorpion toxic mimic of CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"CD4M47, scorpion toxic mimic of CD4 (Protein); Envelope glycoprotein gp120 (Protein)",X-ray diffraction,2.2,41066
+113,2I60,"17B mAb, anti-gp120 [HIV-1]; (Phe23)M47, scorpion toxin mimic of CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"(Phe23)M47, scorpion toxin mimic of CD4 (Protein); Envelope glycoprotein gp120 (Protein)",X-ray diffraction,2.4,41066
+120,2NXY,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.0,40737
+121,2NXZ,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.04,40737
+122,2NY0,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.2,40737
+123,2NY1,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,1.99,40737
+124,2NY2,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.0,40737
+125,2NY3,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.0,40737
+126,2NY4,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.0,40737
+127,2NY5,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.5,40737
+1102,6MTP,Fab VRC42.04,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein gp160 (Peptide),X-ray diffraction,2.04,43551
+1103,6MTT,Fab VRC42.01,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein gp41 (Peptide),X-ray diffraction,1.7,43551

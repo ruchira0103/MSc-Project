@@ -1,0 +1,5 @@
+Unnamed,IMGT entry ID,IMGT molecule name,Species,IMGT entry type,IMGT receptor description,Ligand(s),Experimental technique,Resolution,PDB release date
+455,4LSP,"VRC-CH31 mAb, anti-gp120 [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,HIV-1 CLADE A/E STRAIN 93TH057 GP120 (Protein),X-ray diffraction,2.15,41521
+660,5F9O,"CH235.9 mAb, [HIV-1], broadly neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,clade A/E 93TH057 HIV-1 envelope glycoprotein gp120 (Protein),,1.86,42445
+761,5NH3,"Activin receptor type-2A; mAb BYM338, anti-human ActRIIB",Homo sapiens,PDB,ACVR2A; FV-HEAVY_LAMBDA,,X-ray diffraction,2.35,43054
+1050,6ID4,Fab 2E3; MH1 HLA-C*1510,Homo sapiens,PDB,VH-CH1-CH2_L-KAPPA; VH-CH1-CH1_L-KAPPA; MH1-ALPHA_B2M,Ala-Ile-Phe-Gln-Ser-Ser-Met-Thr-Lys (Peptide),X-ray diffraction,2.4,43502

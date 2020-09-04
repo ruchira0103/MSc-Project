@@ -1,0 +1,5 @@
+Unnamed,IMGT entry ID,IMGT molecule name,Species,IMGT entry type,IMGT receptor description,Ligand(s),Experimental technique,Resolution,PDB release date
+341,3X3F,KMTR2 Fab,Homo sapiens,PDB,FAB-GAMMA-4_KAPPA,TNFRSF10B (Tumor necrosis factor receptor superfamily member 10B) (Protein),X-ray diffraction,2.1,42361
+553,4XMP,Fab VRC08,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein gp160 (Protein),X-ray diffraction,1.78,42123
+1002,6DW2,Fab 6078,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,,X-ray diffraction,1.7,43341
+1071,6JEP,"Fab ZK2B10, neutralizing antibody",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Zika envelope protein domain III (A0A2Z2ESG6) (Protein),X-ray diffraction,2.32,43600

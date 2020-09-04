@@ -1,0 +1,5 @@
+Unnamed,IMGT entry ID,IMGT molecule name,Species,IMGT entry type,IMGT receptor description,Ligand(s),Experimental technique,Resolution,PDB release date
+975,6CXG,"Fab 2G12, broadly neutralizing antibody",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,10V1S glycopeptide (Peptide),X-ray diffraction,2.3,43516
+1024,6FS0,Fab AZD5991,Homo sapiens,PDB,FAB-GAMMA-2_LAMBDA,MCL-1 (Induced myeloid leukemia cell differentiation) (Protein),X-ray diffraction,2.25,43460
+1104,6MU3,Fab 2G12,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,,X-ray diffraction,2.33,43404
+1108,6MUB,Fab 2G12,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,,X-ray diffraction,2.5,43404

@@ -1,0 +1,30 @@
+Unnamed,IMGT entry ID,IMGT molecule name,Species,IMGT entry type,IMGT receptor description,Ligand(s),Experimental technique,Resolution,PDB release date
+52,1RZG,Fab 412D,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,,X-ray diffraction,2.0,39868
+66,1TZG,"4E10 mAb, anti-gp41 membrane-proximal external region (MPER) [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"Envelope glycoprotein gp160 peptide 664-676 (P12488), S1>K L2>G D7>N L12>K W13>G (Peptide)",X-ray diffraction,2.2,40737
+97,2CMR,"D5 mAb, anti-gp41 [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-3_KAPPA,Envelope glycoprotein gp160 (P04578) (Protein),X-ray diffraction,2.0,39868
+104,2FX7,"4E10 mAb, anti-gp41 membrane-proximal external region (MPER) [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"Envelope glycoprotein gp41 16-mer fragment, I684>K F685>K I686>K (Peptide)",X-ray diffraction,1.76,40737
+105,2FX8,"4E10 mAb, anti-gp41 membrane-proximal external region (MPER) [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"Envelope glycoprotein gp41 fragment, Y681>R I682>R (Peptide)",X-ray diffraction,2.2,39868
+106,2FX9,"4E10 mAb, anti-gp41 membrane-proximal external region (MPER) [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein gp41 fragment (Peptide),X-ray diffraction,2.1,39868
+169,2XRA,"Fab HK20 mAb, anti-gp41 [HIV-1]",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Transmembrane protein gp41 (Protein),X-ray diffraction,2.3,40905
+210,3GBN,Fab CR6261,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hemagglutinin HA1 peptide (Q9WFX3) (Protein),X-ray diffraction,2.2,40737
+274,3NPS,Fab S4,Homo sapiens,PDB,FAB-GAMMA-1_V-LAMBDA-C-KAPPA,"Suppressor of tumorigenicity 14 protein (Q9Y5Y6), E.C: 3.4.21.109 (Protein)",X-ray diffraction,1.5,40968
+378,4FQI,CR9114 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hemagglutinin HA (Protein),X-ray diffraction,1.71,41185
+434,4JZN,"HC84-1 Fab, anti-hepatitis C virus (HCV) envelope glycoprotein E2, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_V-LAMBDA-C-KAPPA,"HCV envelope glycoprotein E2, epitope 434-446 (Peptide)",X-ray diffraction,2.05,41430
+435,4JZO,"HC84-27 Fab, anti-hepatitis C virus (HCV) envelope glycoprotein E2, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_V-LAMBDA-C-KAPPA,"HCV envelope glycoprotein E2, epitope 434-446 (Peptide)",X-ray diffraction,2.22,41430
+460,4M62,GEP 2,Homo sapiens,PDB,FV-HEAVY_KAPPA,T117 (Protein),X-ray diffraction,1.8,41920
+485,4OB5,GEP 7,Homo sapiens,PDB,FV-HEAVY_KAPPA,,X-ray diffraction,1.7,41920
+536,4WY7,"4E10 mAb, anti-gp41 membrane-proximal external region (MPER) [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein gp160 (Peptide),,2.1,42088
+539,4XAK,M336 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Spike glycoprotein (Protein),X-ray diffraction,2.45,42242
+540,4XAW,"4E10 mAb, anti-gp41 membrane-proximal external region (MPER) [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"Envelope glycoprotein gp41, including the MPER region 671-683 (Peptide)",X-ray diffraction,1.47,42403
+541,4XBE,"4E10 mAb, anti-gp41 membrane-proximal external region (MPER) [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"Envelope glycoprotein gp41, including the region 671-683 of the MPER (Peptide)",X-ray diffraction,1.76,42403
+543,4XC1,"4E10 mAb, anti-gp41 membrane-proximal external region (MPER) [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"Envelope glycoprotein gp41, including the MPER region 671-683 (Peptide)",X-ray diffraction,1.63,42403
+544,4XC3,"4E10 mAb, anti-gp41 membrane-proximal external region (MPER) [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"Envelope glycoprotein gp41, including the MPER region 671-683 (Peptide)",,1.63,42403
+545,4XCF,"4E10 mAb, anti-gp41 membrane-proximal external region (MPER) [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"Envelope glycoprotein gp41, including the MPER region 671-683 (Peptide)",,1.43,42403
+566,4YDJ,"44-VRC13.01 mAb, anti-gp120 [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Envelope glycoprotein gp160 (Protein),X-ray diffraction,2.31,42158
+580,4Z0X,HC26AM Fv,Homo sapiens,PDB,FV-HEAVY_LAMBDA,HCV E2 Antigen (residues 432-446) (Peptide),X-ray diffraction,2.0,42571
+599,5ALB,"MEDI2452, anti-ticagrelor, antidote for ticagrelor",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,,X-ray diffraction,2.16,42095
+600,5ALC,"Fab 72, anti-ticagrelor",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,,X-ray diffraction,1.7,42095
+619,5CZX,20358 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Notch3 (Neurogenic locus notch homolog protein 3) (Protein),X-ray diffraction,2.1,42522
+835,5VAG,Fab m826,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hemagglutinin (Peptide),X-ray diffraction,1.9,43089
+878,5X08,Fab 4E10,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein gp120 (Peptide),X-ray diffraction,1.49,42830
+893,5Y9J,Fab belimumab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Tumor necrosis factor ligand superfamily member 13B (Protein),X-ray diffraction,2.05,43152
